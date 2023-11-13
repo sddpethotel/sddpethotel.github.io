@@ -1,0 +1,1 @@
+import{u as o}from"./pet-store.04b64423.js";import{_ as t,a as n,r,o as a,c as s,f as c}from"./index.dda7049c.js";o();const i=n({name:"MainLayout"}),_={class:"column window-height"};function p(u,m,d,f,l,v){const e=r("router-view");return a(),s("div",_,[c(e)])}var $=t(i,[["render",p]]);export{$ as default};

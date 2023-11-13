@@ -1,0 +1,1 @@
+@keyframes blink{0%,to{box-shadow:0 0 10px green}50%{box-shadow:none}}.active-form-group{animation:blink 2s infinite}.grey-border{border:1px solid rgb(206,206,206)}
